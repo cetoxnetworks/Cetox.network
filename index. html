@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cetox Network</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white">
+  <header class="p-6 bg-gray-800 shadow-md">
+    <h1 class="text-3xl font-bold">Cetox Network</h1>
+  </header>
+  <main class="p-8 text-center">
+    <h2 class="text-2xl font-semibold mb-4">Welcome to Cetox Network</h2>
+    <p class="text-gray-300">Decentralized solutions for community, finance, and innovation.</p>
+    <a href="#" class="mt-6 inline-block bg-green-500 text-white px-6 py-3 rounded-lg shadow hover:bg-green-600">
+      Explore Now
+    </a>
+  </main>
+  <footer class="p-6 bg-gray-800 text-center text-gray-400">
+    © 2025 Cetox Network
+  </footer>
+</body>
+</html>
